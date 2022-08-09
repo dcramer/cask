@@ -1,0 +1,35 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "David Cramer", email = "dcramer@gmail.com"},
+]
+dependencies = ["django", "psycopg2-binary", "itsdangerous", "facebook-sdk", "sentry-sdk", "graphene-django", "nplusone"]
+requires-python = ">=3.7"
+license = {text = "Apache-2.0"}
+
+[build-system]
+requires = ["pdm-pep517>=1.0.0"]
+build-backend = "pdm.pep517.api"
+
+
+[tool]
+[tool.pdm]
+allow_prereleases = true
+
+[[tool.pdm.source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "isort==4.3.4",
+    "black==18.6b4",
+    "flake8",
+    "pre-commit",
+    "pytest",
+    "pytest-django",
+    "pytest-xdist",
+]

@@ -1,0 +1,137 @@
+[
+{
+  "model": "spirits.spirittype",
+  "pk": "620dfa6f-1cbf-4f45-ba1d-f2673288dce0",
+  "fields": {
+    "name": "Rye",
+    "created_at": "2018-08-09T22:46:16.683Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "6473acbf-2095-4829-9dff-0458ae46f850",
+  "fields": {
+    "name": "Liqueur",
+    "created_at": "2018-08-09T22:46:16.682Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "6cdcd8dc-2815-456c-8e2a-3f25f6c1d060",
+  "fields": {
+    "name": "Tequila",
+    "created_at": "2018-08-09T22:46:25.002Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "785f58d9-2e90-4311-ae9d-3ab954af77fc",
+  "fields": {
+    "name": "Corn",
+    "created_at": "2018-08-09T22:46:16.680Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "7a566f2e-a254-418b-abaf-7f8d6f9b82f2",
+  "fields": {
+    "name": "Blended Malt",
+    "created_at": "2018-08-09T22:46:16.678Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "7cef0774-10f4-44cd-91e9-16714a5a3a0a",
+  "fields": {
+    "name": "Wheat",
+    "created_at": "2018-08-09T22:46:16.687Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "7f3ad753-b123-4e6f-a0d4-83dc4af6c6b6",
+  "fields": {
+    "name": "Blended Grain",
+    "created_at": "2018-08-09T22:46:16.677Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "9c23aae0-008c-4e4a-83b3-9420671b2338",
+  "fields": {
+    "name": "Grain",
+    "created_at": "2018-08-09T22:46:16.681Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "bfbcfd63-480e-476d-a586-2670cc3cd1d9",
+  "fields": {
+    "name": "Pure Pot Still",
+    "created_at": "2018-08-09T22:46:16.682Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "ce0b17c1-a779-4a16-a609-ab5734586223",
+  "fields": {
+    "name": "Blend",
+    "created_at": "2018-08-09T22:46:16.665Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "f4366697-3b51-4465-9262-729964a76208",
+  "fields": {
+    "name": "Bourbon",
+    "created_at": "2018-08-09T22:46:16.679Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "f58bac4d-0b9e-48eb-9df2-7fde3f763305",
+  "fields": {
+    "name": "Single Malt",
+    "created_at": "2018-08-09T22:46:16.685Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "f8e7c7d0-2dd1-4c6e-a5f7-280f5e31d976",
+  "fields": {
+    "name": "Single Grain",
+    "created_at": "2018-08-09T22:46:16.684Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "fa697f16-ec20-40f5-8671-ee5b51de19a5",
+  "fields": {
+    "name": "Vodka",
+    "created_at": "2018-08-09T22:46:22.606Z",
+    "created_by": null
+  }
+},
+{
+  "model": "spirits.spirittype",
+  "pk": "ffbb2bff-1a23-4238-8ffa-248b8e8bc18b",
+  "fields": {
+    "name": "Tennessee",
+    "created_at": "2018-08-09T22:46:16.686Z",
+    "created_by": null
+  }
+}
+]
